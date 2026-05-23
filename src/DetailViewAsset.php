@@ -7,7 +7,7 @@
  * @version   1.8.7
  */
 
-namespace kartik\detail;
+namespace vet7\detail;
 
 use kartik\base\AssetBundle;
 
