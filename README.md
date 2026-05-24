@@ -1,3 +1,5 @@
+> **VET7.well fork note:** This repository is a VET7.well-specific public fork of `kartik-v/yii2-detail-view`. It exists to support isolated DetailView customizations for selected KIS pages: Case, Pet/Animal and PetOwner. The original upstream package remains used elsewhere in the application. The fork is intentionally kept small and focused.
+
 <h1 align="center">
     <a href="http://demos.krajee.com" title="Krajee Demos" target="_blank">
         <img src="http://kartik-v.github.io/bootstrap-fileinput-samples/samples/krajee-logo-b.png" alt="Krajee Logo"/>
